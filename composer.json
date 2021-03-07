@@ -1,5 +1,5 @@
 {
-    "name":"wa72/htmlpagedom",
+    "name":"codingjungle/htmlpagedom",
     "description":"jQuery-inspired DOM manipulation extension for Symfony's Crawler",
     "keywords":["HTML", "DOM", "Crawler"],
     "homepage":"http://github.com/wasinger/htmlpagedom",
